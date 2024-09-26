@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <main className='w-full mt-[10px] md:mt-[50px] flex flex-col gap-[40px] md:gap-0 md:flex-row md:items-center'>
+    <main className='w-full pt-[30px] md:pt-[50px] flex flex-col gap-[40px] md:gap-0 md:flex-row md:items-center bg-[#F6F6F6]'>
 
         <div className='flex flex-col gap-[50px] items-center md:items-start'>
 
@@ -14,8 +14,8 @@ const Hero = () => {
                 </div>
                 
                 <div className='flex items-center gap-[16px] md:gap-[24px]'>
-                    <img src={'/appStore.png'} alt='appStore'/>
-                    <img src={'/playStore.png'} alt='playStore'/>
+                    <img src={'/appStore.png'} alt='appStore' className='w-[120px] h-[32px] md:w-[162px] md:h-[47px]'/>
+                    <img src={'/playStore.png'} alt='playStore' className='w-[120px] h-[32px] md:w-[162px] md:h-[47px]'/>
                 </div>
             </div>
 
