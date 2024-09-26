@@ -13,7 +13,7 @@ const Hero = () => {
                     <p className='text-[#54697E] font-josefin font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[20px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
                 </div>
                 
-                <div className='flex items-center gap-[24px]'>
+                <div className='flex items-center gap-[16px] md:gap-[24px]'>
                     <img src={'/appStore.png'} alt='appStore'/>
                     <img src={'/playStore.png'} alt='playStore'/>
                 </div>
@@ -50,7 +50,7 @@ const Hero = () => {
         </div>
 
         {/* This will display on the mobile view only */}
-        <div className='h-[71px] bg-[#002C5B] flex justify-around items-center md:hidden'>
+        <div className='h-[71px] bg-[#002C5B] flex justify-around items-center gap-[10px] md:hidden'>
             <div className='flex flex-col items-center gap-[5px]'>
                 <p className='font-josefin text-[#FBFBFB] font-semibold text-[14px] leading-[14px]'>50k</p>
                 <p className='font-josefin text-[#FBFBFB] font-normal text-[14px] leading-[14px]'>Download</p>
