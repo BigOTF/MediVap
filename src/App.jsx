@@ -1,10 +1,11 @@
 import React from "react"
+import Header from "./components/Header/Header"
 
 function App() {
   
   return (
-    <div className="font-josefin font-bold">
-      Hello
+    <div className="bg-[#F6F6F6]">
+      <Header />
     </div>
   )
 }
