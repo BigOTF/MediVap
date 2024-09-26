@@ -14,12 +14,12 @@ const About = () => {
             <p className='text-[#54697E] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[30px] text-center'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost card catch-up vaccines.</p>
         </div>
 
-        <div className='flex flex-col items-center gap-[30px] md:flex-row md:gap-[100px]'>
+        <div className='flex flex-col items-center gap-[30px] md:flex-row md:gap-[20px]'>
             <div className='w-[100%] hidden md:block'>
                 <img src={'/aboutSection.png'} alt='doctor' className=''/>
             </div>
 
-            <div className='grid md:grid-cols-2 gap-[20px] place-content-center items-center w-[70%] md:w-[100%]'>
+            <div className='grid md:grid-cols-2 gap-[20px] md:gap-[25px] w-[70%] md:w-[100%]'>
 
                 <div className='md:flex flex-col gap-[8px] rounded-[8px] py-[32px] px-[16px] md:py-[48px] bg-[#002C5B] hidden'>
                     <div className='flex flex-col gap-[16px]'>
