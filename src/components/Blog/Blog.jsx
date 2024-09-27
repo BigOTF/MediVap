@@ -7,21 +7,21 @@ import { FaLongArrowAltRight } from "react-icons/fa";
 const Blog = () => {
     useEffect(() => {
         AOS.init({
-          duration: 400, // animation duration in ms
+          duration: 300, // animation duration in ms
           once: false,   // Allows animations to trigger every time the user scrolls
           offset: 50,    // Trigger animations when elements are 50px from the viewport
         });
     }, []);
 
   return (
-    <div className='w-full flex flex-col items-center md:gap-[60px] px-[30px] md:px-[100px] md:mt-[100px]'>
+    <div className='w-full flex flex-col items-center mt-[60px] gap-[30px] md:gap-[60px] px-[30px] md:px-[100px] md:mt-[100px]'>
         <div>
             <p className='text-[#002C5B] font-bold text-[24px] leading-[30.17px] md:text-[32px] md:leading-[40.22px] text-center'>News & Blogs</p>
         </div>
 
         <div className='grid gap-[10px] md:grid-cols-3 md:gap-[20px] space-y-8'>
 
-            <div data-aos="fade-up" data-aos-delay="400" className='flex flex-col opacity-0 transition-opacity duration-300'>
+            <div data-aos="fade-up" data-aos-delay="300" className='flex flex-col opacity-0 transition-opacity duration-300'>
                 <div>
                     <img src={'/blog1.png'} className=''/>
                 </div>
@@ -41,7 +41,7 @@ const Blog = () => {
                 </div>
             </div>
 
-            <div data-aos="fade-up" data-aos-delay="800" className='flex flex-col opacity-0 transition-opacity duration-300'>
+            <div data-aos="fade-up" data-aos-delay="500" className='flex flex-col opacity-0 transition-opacity duration-300'>
                 <div>
                     <img src={'/blog2.png'} className=''/>
                 </div>
@@ -61,7 +61,7 @@ const Blog = () => {
                 </div>
             </div>
 
-            <div data-aos="fade-up" data-aos-delay="1200" className='flex flex-col opacity-0 transition-opacity duration-300'>
+            <div data-aos="fade-up" data-aos-delay="800" className='flex flex-col opacity-0 transition-opacity duration-300'>
                 <div>
                     <img src={'/blog3.png'} className=''/>
                 </div>
