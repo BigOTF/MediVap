@@ -7,7 +7,7 @@ import { BiPlusMedical } from "react-icons/bi";
 
 const Feature = () => {
   return (
-    <div className='bg-[#F6F6F6] w-full mt-[70px] pt-[40px] md:mt-[80px] flex flex-col items-center gap-[30px] md:gap-[50px] px-[30px] md:px-[205px]'>
+    <div className='bg-[#F6F6F6] w-full mt-[70px] py-[40px] md:mt-[80px] flex flex-col items-center gap-[30px] md:gap-[50px] px-[30px] md:px-[205px]'>
 
         <div className='flex flex-col gap-[8px] md:gap-[16px] md:w-[60%]'>
             <p className='text-[#002C5B] font-bold text-[24px] leading-[30.17px] md:text-[32px] md:leading-[40.22px] text-center'>Our Features</p>
