@@ -83,7 +83,6 @@ const Blog = () => {
 
         </div>
 
-       
     </div>
   )
 }

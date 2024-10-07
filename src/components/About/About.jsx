@@ -57,7 +57,7 @@ const About = () => {
                     </div>
                 </div>
 
-                <div data-aos="fade-left" data-aos-delay="600"  className='flex flex-col gap-[8px] rounded-[8px] py-[32px] px-[16px] md:py-[48px] bg-[#F6F6F6] opacity-0 transition-opacity duration-300'>
+                <div data-aos="fade-up" data-aos-delay="600"  className='flex flex-col gap-[8px] rounded-[8px] py-[32px] px-[16px] md:py-[48px] bg-[#F6F6F6] opacity-0 transition-opacity duration-300'>
                     <div className='flex flex-col gap-[16px]'>
                         <FaUserClock className='w-[24px] h-[24px] md:w-[32px] md:h-[32px] text-[#FC681D]'/>
                         <p className='text-[#002C5B] font-bold text-[20px] leading-[20px] md:text-[24px] md:leading-[24px]'>Always Available</p>
@@ -68,7 +68,7 @@ const About = () => {
                     </div>
                 </div>
 
-                <div data-aos="fade-right" data-aos-delay="800"  className='flex flex-col gap-[8px] rounded-[8px] py-[32px] px-[16px] md:py-[48px] bg-[#F6F6F6] opacity-0 transition-opacity duration-300'>
+                <div data-aos="fade-up" data-aos-delay="800"  className='flex flex-col gap-[8px] rounded-[8px] py-[32px] px-[16px] md:py-[48px] bg-[#F6F6F6] opacity-0 transition-opacity duration-300'>
                     <div className='flex flex-col gap-[16px]'>
                         <BsFillHandThumbsUpFill className='w-[24px] h-[24px] md:w-[32px] md:h-[32px] text-[#FC681D]'/>
                         <p className='text-[#002C5B] font-bold text-[20px] leading-[20px] md:text-[24px] md:leading-[24px]'>Best Price</p>
@@ -79,7 +79,7 @@ const About = () => {
                     </div>
                 </div>
 
-                <div data-aos="fade-left" data-aos-delay="900"  className='flex flex-col gap-[8px] rounded-[8px] py-[32px] px-[16px] md:py-[48px] bg-[#F6F6F6] opacity-0 transition-opacity duration-300'>
+                <div data-aos="fade-up" data-aos-delay="900"  className='flex flex-col gap-[8px] rounded-[8px] py-[32px] px-[16px] md:py-[48px] bg-[#F6F6F6] opacity-0 transition-opacity duration-300'>
                     <div className='flex flex-col gap-[16px]'>
                         <FaAward className='w-[24px] h-[24px] md:w-[32px] md:h-[32px] text-[#FC681D]'/>
                         <p className='text-[#002C5B] font-bold text-[20px] leading-[20px] md:text-[24px] md:leading-[24px]'>Center of Excellence</p>
