@@ -11,10 +11,10 @@ const Header = () => {
     }
 
   return (
-    <header className='w-full md:bg-[#002C5B] bg-[#F6F6F6] md:h-[88px] px-[30px] md:px-[100px] flex flex-col gap-[8x]'>
+    <header className='w-full md:bg-[#FBFBFB] bg-[#F6F6F6] md:h-[88px] px-[30px] md:px-[100px] flex flex-col gap-[8x]'>
 
         <div className='flex items-center justify-between py-[20px] md:py-[15px]'>
-            <p className='font-josefin text-[#002C5B] text-[24px] leading-[24px] md:text-[#FFFCFC] font-bold md:text-[32px] md:leading-[32px]'>MEDIVAP</p>
+            <p className='font-josefin text-[#002C5B] text-[24px] leading-[24px] md:text-[#002C5B] font-bold md:text-[32px] md:leading-[32px]'>MEDIVAP</p>
 
             <div className='md:hidden'>
                 {
@@ -25,19 +25,19 @@ const Header = () => {
 
             <nav className='md:flex items-center gap-[40px] hidden'>
                 <ul className='flex items-center gap-[30px]'>
-                    <NavLink to='/' className={({ isActive }) => isActive ? 'text-[#FFFCFC] nunito-400 font-josefin text-[20px] leading-[20px] border-b-2 border-[#FC681D] p-[8px]' : 'text-[#54697E] font-josefin nunito-400 text-[20px] leading-[20px]'}>
+                    <NavLink to='/' className={({ isActive }) => isActive ? 'text-[#002C5B] nunito-400 font-josefin text-[20px] leading-[20px] border-b-2 border-[#FC681D] p-[8px]' : 'text-[#54697E] font-josefin nunito-400 text-[20px] leading-[20px]'}>
                         Home
                     </NavLink>
 
-                    <NavLink to='/feature' className={({ isActive }) => isActive ? 'text-[#FFFCFC] nunito-400 font-josefin text-[20px] leading-[20px] border-b-2 border-[#FC681D] p-[8px]' : 'text-[#54697E] font-josefin nunito-400 text-[20px] leading-[20px]'}>
+                    <NavLink to='/feature' className={({ isActive }) => isActive ? 'text-[#002C5B] nunito-400 font-josefin text-[20px] leading-[20px] border-b-2 border-[#FC681D] p-[8px]' : 'text-[#54697E] font-josefin nunito-400 text-[20px] leading-[20px]'}>
                         Features
                     </NavLink>
 
-                    <NavLink to='/vaccine' className={({ isActive }) => isActive ? 'text-[#FFFCFC] nunito-400 font-josefin text-[20px] leading-[20px] border-b-2 border-[#FC681D] p-[8px]' : 'text-[#54697E] font-josefin nunito-400 text-[20px] leading-[20px]'}>
+                    <NavLink to='/vaccine' className={({ isActive }) => isActive ? 'text-[#002C5B] nunito-400 font-josefin text-[20px] leading-[20px] border-b-2 border-[#FC681D] p-[8px]' : 'text-[#54697E] font-josefin nunito-400 text-[20px] leading-[20px]'}>
                         Vaccines
                     </NavLink>
 
-                    <NavLink to='/doctor' className={({ isActive }) => isActive ? 'text-[#FFFCFC] nunito-400 font-josefin text-[20px] leading-[20px] border-b-2 border-[#FC681D] p-[8px]' : 'text-[#54697E] font-josefin nunito-400 text-[20px] leading-[20px]'}>
+                    <NavLink to='/doctor' className={({ isActive }) => isActive ? 'text-[#002C5B] nunito-400 font-josefin text-[20px] leading-[20px] border-b-2 border-[#FC681D] p-[8px]' : 'text-[#54697E] font-josefin nunito-400 text-[20px] leading-[20px]'}>
                         Doctors
                     </NavLink>
                 </ul>

@@ -5,3 +5,10 @@
 body {
   font-family: 'Josefin Sans', sans-serif;
 }
+
+
+.featureHero {
+  background-image: url('/featureHero.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}

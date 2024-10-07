@@ -6,7 +6,7 @@ import { MdEmail } from "react-icons/md";
 
 const Footer = () => {
   return (
-    <footer className='w-full px-[30px] mt-[50px] md:px-[100px] md:mt-[100px] md:border-t-[0.5px] border-[#002C5B]'>
+    <footer className='w-full px-[30px] mt-[50px] md:px-[100px] md:mt-[100px] md:border-t-[0.5px] border-[#002C5B] bg-[#F6F6F6]'>
         
         {/* Will display on the larger screen */}
         <div className=' py-[40px] md:flex flex-col items-center gap-[70px] hidden'>
