@@ -7,11 +7,12 @@ import Client from "./components/ClientSec/Client"
 import Blog from "./components/Blog/Blog"
 import JoinUs from "./components/Join/JoinUs"
 import NewsLetter from "./components/NewsLetter/NewsLetter"
+import Footer from "./components/Footer/Footer"
 
 function App() {
   
   return (
-    <div className="pb-[600px]">
+    <div>
       <Header />
       <Hero />
       <About />
@@ -20,6 +21,7 @@ function App() {
       <Blog />
       <JoinUs />
       <NewsLetter />
+      <Footer />
     </div>
   )
 }
