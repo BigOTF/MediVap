@@ -16,10 +16,10 @@ const FeaturesList = () => {
       }, []);
 
   return (
-    <div className='w-full mt-[70px] py-[50px] md:mt-[80px] flex flex-col items-center gap-[50px] px-[30px] md:px-[205px]'>
+    <div className='w-full mt-[50px] md:mt-[80px] flex flex-col items-center gap-[50px] px-[30px] md:px-[205px]'>
         
         {/* Vaccine Tracker */}
-        <div className='grid md:grid-cols-2 items-center gap-[10px] space-y-8'>
+        <div className='grid md:grid-cols-2 items-center gap-[10px]'>
             <div data-aos="fade-up" data-aos-delay="300" className='md:block hidden opacity-0 transition-opacity duration-300'>
                 <img src={'/featureTracker.png'} className='object-cover'/>
             </div>
@@ -39,7 +39,7 @@ const FeaturesList = () => {
         </div>
 
         {/* Medication tracker */}
-        <div className='grid md:grid-cols-2 items-center gap-[10px] md:gap-[100px] space-y-8'>
+        <div className='grid md:grid-cols-2 items-center gap-[10px] md:gap-[100px]'>
                 <div data-aos="fade-up" data-aos-delay="300" className='flex flex-col gap-[8px] md:gap-[16px] p-[8px] opacity-0 transition-opacity duration-300'>
                     <div className='flex items-center gap-[8px] p-[8px]'>
                         <p className='text-[#002C5B] font-bold text-[20px] leading-[20px] md:text-[32px] md:leading-[32px]'>Medication Tracker</p>
@@ -59,7 +59,7 @@ const FeaturesList = () => {
         </div>
 
         {/* Doc chat */}
-        <div className='grid md:grid-cols-2 items-center gap-[10px] space-y-8'>
+        <div className='grid md:grid-cols-2 items-center gap-[10px]'>
             <div data-aos="fade-up" data-aos-delay="300" className='md:block hidden opacity-0 transition-opacity duration-300'>
                 <img src={'/featureDoc.png'} className='object-cover'/>
             </div>
@@ -79,7 +79,7 @@ const FeaturesList = () => {
         </div>
 
         {/* Hospital Database */}
-        <div className='grid md:grid-cols-2 items-center gap-[10px] md:gap-[100px] space-y-8'>
+        <div className='grid md:grid-cols-2 items-center gap-[10px] md:gap-[100px]'>
             <div data-aos="fade-up" data-aos-delay="300" className='flex flex-col gap-[8px] md:gap-[16px] p-[8px] opacity-0 transition-opacity duration-300'>
                 <div className='flex items-center gap-[8px] p-[8px]'>
                     <p className='text-[#002C5B] font-bold text-[20px] leading-[20px] md:text-[32px] md:leading-[32px]'>Hospital database</p>
@@ -99,7 +99,7 @@ const FeaturesList = () => {
         </div>
 
         {/* Health Blog */}
-        <div className='grid md:grid-cols-2 items-center gap-[10px] space-y-8'>
+        <div className='grid md:grid-cols-2 items-center gap-[10px]'>
             <div data-aos="fade-up" data-aos-delay="300" className='md:block hidden opacity-0 transition-opacity duration-300'>
                 <img src={'/featureBlog.png'} className='object-cover'/>
             </div>
@@ -119,7 +119,7 @@ const FeaturesList = () => {
         </div>
 
         {/* Code */}
-        <div className='grid md:grid-cols-2 items-center gap-[10px] md:gap-[100px] space-y-8'>
+        <div className='grid md:grid-cols-2 items-center gap-[10px] md:gap-[100px]'>
             <div data-aos="fade-up" data-aos-delay="300" className='flex flex-col gap-[8px] md:gap-[16px] p-[8px] opacity-0 transition-opacity duration-300'>
                 <div className='flex items-center gap-[8px] p-[8px]'>
                     <p className='text-[#002C5B] font-bold text-[20px] leading-[20px] md:text-[32px] md:leading-[32px]'>*548#</p>
@@ -139,7 +139,7 @@ const FeaturesList = () => {
         </div>
 
         {/* Government Hospital */}
-        <div className='grid md:grid-cols-2 items-center gap-[10px] space-y-8'>
+        <div className='grid md:grid-cols-2 items-center gap-[10px]'>
             <div data-aos="fade-up" data-aos-delay="300" className='md:block hidden opacity-0 transition-opacity duration-300'>
                 <img src={'/featureGov.png'} className='object-cover'/>
             </div>
