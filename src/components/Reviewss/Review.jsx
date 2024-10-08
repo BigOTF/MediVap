@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const FeatureSubHero = () => {
+const Review = () => {
   return (
     <div className='flex items-center justify-center mt-[30px]'>
         <div className='flex flex-col items-center gap-[16px] md:gap-[24px]'>
@@ -14,4 +14,4 @@ const FeatureSubHero = () => {
   )
 }
 
-export default FeatureSubHero
+export default Review

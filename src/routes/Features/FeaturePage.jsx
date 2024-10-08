@@ -4,9 +4,9 @@ import Footer from '../../components/Footer/Footer'
 import JoinUs from '../../components/Join/JoinUs'
 import NewsLetter from '../../components/NewsLetter/NewsLetter'
 import UserStory from '../../components/User/UserStory'
+import Review from '../../components/Reviewss/Review'
 
 import FeatureHero from './FeatureHero'
-import FeatureSubHero from './FeatureSubHero'
 import FeaturesList from './FeaturesList'
 
 const FeaturePage = () => {
@@ -14,7 +14,7 @@ const FeaturePage = () => {
     <div className='bg-[#F6F6F6]'>
         <Header />
         <FeatureHero />
-        <FeatureSubHero />
+        <Review />
         <FeaturesList />
         <UserStory />
         <JoinUs />
