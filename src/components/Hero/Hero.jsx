@@ -75,7 +75,7 @@ const Hero = () => {
 
         {/* This will display on the large screen */}
         <div className='transform translate-x-[-90px] md:pr-[100px] md:block hidden'>
-            <img src={'/hero.png'} className='w-[606px] h-[611px]'/>
+            <img src={'/hero.png'} className='w-[700px]'/>
         </div>
        
     </main>

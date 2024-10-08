@@ -34,7 +34,7 @@ const FeaturesList = () => {
 
             {/* Will display on the mobile view */}
             <div data-aos="fade-up" data-aos-delay="500" className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                <img src={'/featureTracker.png'} className='object-cover w-[190px] h-[400px]'/>
+                <img src={'/featureTracker.png'} className='object-cover w-[220.74px]'/>
             </div>
         </div>
 
@@ -54,7 +54,7 @@ const FeaturesList = () => {
                 
                 {/* Will display on the mobile view */}
                 <div  data-aos="fade-up" data-aos-delay="500"className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                    <img src={'/feature2.png'} className='object-cover w-[190px] h-[400px]'/>
+                    <img src={'/feature2.png'} className='object-cover w-[220.74px]'/>
                 </div>
         </div>
 
@@ -74,7 +74,7 @@ const FeaturesList = () => {
 
             {/* Will display on the mobile view */}
             <div data-aos="fade-up" data-aos-delay="500" className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                <img src={'/featureDoc.png'} className='object-cover w-[190px] h-[400px]'/>
+                <img src={'/featureDoc.png'} className='object-cover w-[220.74px]'/>
             </div>
         </div>
 
@@ -94,7 +94,7 @@ const FeaturesList = () => {
             
             {/* Will display on the mobile view */}
             <div  data-aos="fade-up" data-aos-delay="500"className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                <img src={'/featureHospital.png'} className='object-cover w-[190px] h-[400px]'/>
+                <img src={'/featureHospital.png'} className='object-cover w-[220.74px]'/>
             </div>
         </div>
 
@@ -114,7 +114,7 @@ const FeaturesList = () => {
 
             {/* Will display on the mobile view */}
             <div data-aos="fade-up" data-aos-delay="500" className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                <img src={'/featureBlog.png'} className='object-cover w-[190px] h-[400px]'/>
+                <img src={'/featureBlog.png'} className='object-cover w-[220.74px]'/>
             </div>
         </div>
 
@@ -134,7 +134,7 @@ const FeaturesList = () => {
             
             {/* Will display on the mobile view */}
             <div  data-aos="fade-up" data-aos-delay="500"className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                <img src={'/featureCode.png'} className='object-cover w-[190px] h-[400px]'/>
+                <img src={'/featureCode.png'} className='object-cover w-[220.74px]'/>
             </div>
         </div>
 
@@ -154,7 +154,7 @@ const FeaturesList = () => {
 
             {/* Will display on the mobile view */}
             <div data-aos="fade-up" data-aos-delay="500" className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                <img src={'/featureGov.png'} className='object-cover w-[190px] h-[400px]'/>
+                <img src={'/featureGov.png'} className='object-cover w-[220.74px]'/>
             </div>
         </div>
 

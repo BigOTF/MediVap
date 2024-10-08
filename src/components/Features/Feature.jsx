@@ -46,7 +46,7 @@ const Feature = () => {
 
                 {/* Will display on the mobile view */}
                 <div data-aos="fade-up" data-aos-delay="500" className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                    <img src={'/feature1.png'} className='object-cover w-[190px] h-[400px]'/>
+                    <img src={'/feature1.png'} className='object-cover w-[220px]'/>
                 </div>
             </div>
 
@@ -69,7 +69,7 @@ const Feature = () => {
                 
                 {/* Will display on the mobile view */}
                 <div  data-aos="fade-up" data-aos-delay="500"className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                    <img src={'/feature2.png'} className='object-cover w-[190px] h-[400px]'/>
+                    <img src={'/feature2.png'} className='object-cover w-[220px]'/>
                 </div>
             </div>
         
@@ -93,7 +93,7 @@ const Feature = () => {
                 
                 {/* Will display on the mobile view */}
                 <div data-aos="fade-up" data-aos-delay="500" className='md:hidden flex items-center justify-center opacity-0 transition-opacity duration-300'>
-                    <img src={'/feature3.png'} className='object-cover w-[190px] h-[400px]'/>
+                    <img src={'/feature3.png'} className='object-cover w-[220px]'/>
                 </div>
             </div>
 
