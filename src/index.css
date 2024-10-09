@@ -12,3 +12,9 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.doctorHero {
+  background-image: url('/doctorHero.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
