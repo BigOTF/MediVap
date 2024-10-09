@@ -16,7 +16,7 @@ const JoinUs = () => {
         </div>
 
         <div>
-            <img src={'/feature2.png'} className='object-cover transform rotate-[7.8deg]'/>
+            <img src={'/feature2.png'} className='object-cover'/>
         </div>
     </div>
   )
