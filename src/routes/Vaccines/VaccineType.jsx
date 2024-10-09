@@ -169,7 +169,7 @@ const VaccineType = () => {
 
             {/* This will display on mobile screen */}
             <div  data-aos="fade-up" data-aos-delay="500" className='opacity-0 transition-opacity duration-300 md:hidden'>
-                <img src='/childVaccine.png' className='object-cover'/>
+                <img src='/childVaccine.png' className='w-[368px] h-[365px] rounded-[8px]'/>
             </div>
         </div>
 
@@ -252,7 +252,7 @@ const VaccineType = () => {
             </div>
 
             <div  data-aos="fade-up" data-aos-delay="500" className='opacity-0 transition-opacity duration-300'>
-                <img src='/teenVaccine.png' className='object-cover'/>
+                <img src='/teenVaccine.png' className='object-cover rounded-[8px] md:rounded-none'/>
             </div>
         </div>
 
@@ -273,7 +273,7 @@ const VaccineType = () => {
 
             {/* This will display on mobile screen */}
             <div  data-aos="fade-up" data-aos-delay="500" className='opacity-0 transition-opacity duration-300 md:hidden'>
-                <img src='/travelVaccine.png' className='object-cover'/>
+                <img src='/travelVaccine.png' className='object-cover rounded-[8px]'/>
             </div>
         </div>
 
