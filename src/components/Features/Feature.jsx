@@ -22,7 +22,7 @@ const Feature = () => {
 
         <div className='flex flex-col gap-[8px] md:gap-[16px] md:w-[60%]'>
             <p className='text-[#002C5B] font-bold text-[24px] leading-[30.17px] md:text-[32px] md:leading-[40.22px] text-center'>Our Features</p>
-            <p className='text-[#54697E] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[30px] text-center'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost card or catch-up vaccines.</p>
+            <p className='text-[#54697E] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px] text-center'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost card or catch-up vaccines.</p>
         </div>
 
         <div className='flex flex-col items-center gap-[50px]'>
@@ -41,7 +41,7 @@ const Feature = () => {
                         <p className='text-[#002C5B] font-semibold text-[20px] leading-[20px] md:text-[32px] md:leading-[32px]'>Vaccine Tracker</p>
                     </div> 
 
-                    <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[20px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines. With built in reminders, pdf printouts and geolocation to find the nearest clinic. The Vaccine App is an all in one solution. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
+                    <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines. With built in reminders, pdf printouts and geolocation to find the nearest clinic. The Vaccine App is an all in one solution. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
                 </div>
 
                 {/* Will display on the mobile view */}
@@ -60,7 +60,7 @@ const Feature = () => {
                         <p className='text-[#002C5B] font-semibold text-[20px] leading-[20px] md:text-[32px] md:leading-[32px]'>Medication Tracker</p>
                     </div> 
 
-                    <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[20px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines. With built in reminders, pdf printouts and geolocation to find the nearest clinic. The Vaccine App is an all in one solution. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
+                    <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines. With built in reminders, pdf printouts and geolocation to find the nearest clinic. The Vaccine App is an all in one solution. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
                 </div>
 
                 <div data-aos="fade-up" data-aos-delay="400" className='md:block hidden opacity-0 transition-opacity duration-300'>
@@ -88,7 +88,7 @@ const Feature = () => {
                         <p className='text-[#002C5B] font-semibold text-[20px] leading-[20px] md:text-[32px] md:leading-[32px]'>Doc Chat</p>
                     </div> 
 
-                    <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[20px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines. With built in reminders, pdf printouts and geolocation to find the nearest clinic. The Vaccine App is an all in one solution. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
+                    <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines. With built in reminders, pdf printouts and geolocation to find the nearest clinic. The Vaccine App is an all in one solution. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
                 </div>
                 
                 {/* Will display on the mobile view */}
@@ -103,7 +103,6 @@ const Feature = () => {
             
         </div>
 
-       
     </div>
   )
 }

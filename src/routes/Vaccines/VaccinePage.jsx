@@ -7,6 +7,7 @@ import Footer from '../../components/Footer/Footer'
 
 import VaccineHero from './VaccineHero'
 import Review from '../../components/Reviewss/Review'
+import VaccineType from './VaccineType'
 
 const VaccinePage = () => {
   return (
@@ -14,6 +15,7 @@ const VaccinePage = () => {
         <Header />
         <VaccineHero />
         <Review />
+        <VaccineType />
         <UserStory />
         <JoinUs />
         <NewsLetter />

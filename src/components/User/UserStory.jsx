@@ -37,7 +37,7 @@ const UserStory = () => {
 
                             <div className='bg-[#FBFBFB] border-[0.5px] border-[#54697E33] p-[24px] md:py-[112px] md:px-[24px] flex flex-col gap-[16px] md:gap-[24px]'>
                                 <p className='font-bold text-[24px] leading-[24px] md:text-[32px] md:leading-[32px] text-[#002C5B]'>{data.user}</p>
-                                <p className='text-[#202020] text-[18px] leading-[24px] md:text-[20px] md:leading-[20px]'>{data.story}</p>
+                                <p className='text-[#202020] text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>{data.story}</p>
                             </div>
 
                             {/* This will display on the mobile screen */}
@@ -53,7 +53,7 @@ const UserStory = () => {
     }
 
   return (
-    <div className='w-full px-[30px] py-[50px] md:py-[100px] md:px-[100px] bg-[#F6F6F6]'>
+    <div className='w-full px-[30px] py-[50px] md:py-[100px] md:px-[100px]'>
 
         <div className='flex flex-col gap-[30px]'>
             <div className=''>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const JoinUs = () => {
   return (
-    <div className='w-full bg-[#002C5B] flex flex-col md:flex-row items-center gap-[50px] py-[40px] px-[30px] mt-[70px] md:py-0 md:gap-0 md:px-[204px] md:mt-[150px] md:h-[498px]'>
+    <div className='w-full bg-[#002C5B] flex flex-col md:flex-row items-center gap-[50px] py-[40px] px-[30px] mt-[40px] md:py-0 md:gap-[30px] md:px-[204px] md:mt-[60px] md:h-[498px]'>
         <div className='flex flex-col items-center md:items-start gap-[16px] md:gap-[32px]'>
             <div className='flex flex-col gap-[16px] md:gap-[24px] '>
                 <p className='text-[#FBFBFB] font-bold text-[24px] leading-[30.17px] text-center md:text-start md:text-[32px] md:leading-[40.22px]'>Ready to join Us?</p>
@@ -16,7 +16,7 @@ const JoinUs = () => {
         </div>
 
         <div>
-            <img src={'/joinUs.png'} className='md:w-[658.95px] object-cover'/>
+            <img src={'/feature2.png'} className='object-cover transform rotate-[7.8deg]'/>
         </div>
     </div>
   )

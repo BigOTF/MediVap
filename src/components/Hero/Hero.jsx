@@ -10,7 +10,7 @@ const Hero = () => {
 
                 <div className='flex flex-col gap-[8px]'>
                     <p className='font-josefin font-semibold text-[35px] leading-[40px] md:text-[48px] md:leading-[64px]'>We Care About the <span className='md:text-[#FC681D]'>Medical Record</span> of Your Child</p>
-                    <p className='text-[#54697E] font-josefin font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[20px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
+                    <p className='text-[#54697E] font-josefin font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
                 </div>
                 
                 <div className='flex items-center gap-[16px] md:gap-[24px]'>

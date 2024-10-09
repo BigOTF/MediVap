@@ -32,7 +32,7 @@ const Blog = () => {
                         <p className='text-[#54697E] font-normal text-[16px] leading-[16px] md:text-[18px] md:leading-[18px]'>October 19, 2023</p>
                     </div>
                     <div className='flex flex-col gap-[8px]'>
-                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt.</p>
+                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt.</p>
                         <div className='flex items-center gap-[8px]'>
                             <a className='text-[#002C5B] font-semibold text-[18px] leading-[30px] md:text-[20px] cursor-pointer'>Learn More</a>
                             <FaLongArrowAltRight className='text-[#FC681D] w-[18px]'/>
@@ -52,7 +52,7 @@ const Blog = () => {
                         <p className='text-[#54697E] font-normal text-[16px] leading-[16px] md:text-[18px] md:leading-[18px]'>October 19, 2023</p>
                     </div>
                     <div className='flex flex-col gap-[8px]'>
-                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt.</p>
+                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt.</p>
                         <div className='flex items-center gap-[8px]'>
                             <a className='text-[#002C5B] font-semibold text-[18px] leading-[30px] md:text-[20px] cursor-pointer'>Learn More</a>
                             <FaLongArrowAltRight className='text-[#FC681D] w-[18px]'/>
@@ -72,7 +72,7 @@ const Blog = () => {
                         <p className='text-[#54697E] font-normal text-[16px] leading-[16px] md:text-[18px] md:leading-[18px]'>October 19, 2023</p>
                     </div>
                     <div className='flex flex-col gap-[8px]'>
-                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt.</p>
+                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt.</p>
                         <div className='flex items-center gap-[8px]'>
                             <a className='text-[#002C5B] font-semibold text-[18px] leading-[30px] md:text-[20px] cursor-pointer'>Learn More</a>
                             <FaLongArrowAltRight className='text-[#FC681D] w-[18px]'/>

@@ -2,10 +2,6 @@ import React, { useEffect } from 'react'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-import { BiInjection } from "react-icons/bi";
-import { IoChatbubbleEllipses } from "react-icons/io5";
-import { BiPlusMedical } from "react-icons/bi";
-
 const FeaturesList = () => {
 
     useEffect(() => {

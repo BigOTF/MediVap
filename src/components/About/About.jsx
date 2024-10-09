@@ -24,7 +24,7 @@ const About = () => {
 
         <div className='flex flex-col gap-[8px] md:w-[60%]'>
             <p className='text-[#002C5B] font-bold text-[24px] leading-[30.17px] md:text-[32px] md:leading-[40.22px] text-center'>What Makes Us Different</p>
-            <p className='text-[#54697E] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[30px] text-center'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost card catch-up vaccines.</p>
+            <p className='text-[#54697E] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px] text-center'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost card catch-up vaccines.</p>
         </div>
 
         <div className='flex flex-col items-center gap-[30px] md:flex-row md:gap-[20px]'>
@@ -41,7 +41,7 @@ const About = () => {
                     </div>
 
                     <div>
-                        <p className='text-[#FBFBFB] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[22px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
+                        <p className='text-[#FBFBFB] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
                     </div>
                 </div>
 
@@ -53,7 +53,7 @@ const About = () => {
                     </div>
 
                     <div>
-                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[22px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
+                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
                     </div>
                 </div>
 
@@ -64,7 +64,7 @@ const About = () => {
                     </div>
 
                     <div>
-                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[22px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
+                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
                     </div>
                 </div>
 
@@ -75,7 +75,7 @@ const About = () => {
                     </div>
 
                     <div>
-                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[22px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
+                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
                     </div>
                 </div>
 
@@ -86,7 +86,7 @@ const About = () => {
                     </div>
 
                     <div>
-                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[22px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
+                        <p className='text-[#202020] font-normal text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier.</p>
                     </div>
                 </div>
 

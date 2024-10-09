@@ -104,7 +104,7 @@ const Footer = () => {
         </div>
 
         {/* Will display on Mobile screens */}
-        <div className='md:hidden flex flex-col gap-[24px]'>
+        <div className='md:hidden flex flex-col gap-[24px] py-[30px]'>
 
             <div className='flex flex-col gap-[16px] px-[8px]'>
                 <p className='font-bold text-[24px] leading-[40px] text-[#002C5B]'>Contact us</p>
