@@ -30,7 +30,7 @@ const VaccineType = () => {
                     <p className='text-[#202020] text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
                 </div>
 
-                <div className='flex gap-[16px] md:gap-[32px]'>
+                <div className='flex gap-[14px] md:gap-[20px]'>
                     <ul className='flex flex-col gap-[16px] md:gap-[24px]'>
 
                         <li className='flex items-center gap-[8px]'>
@@ -168,8 +168,8 @@ const VaccineType = () => {
             </div>
 
             {/* This will display on mobile screen */}
-            <div  data-aos="fade-up" data-aos-delay="500" className='opacity-0 transition-opacity duration-300 md:hidden'>
-                <img src='/childVaccine.png' className='w-[368px] h-[365px] rounded-[8px]'/>
+            <div  data-aos="fade-up" data-aos-delay="500" className='opacity-0 transition-opacity duration-300 md:hidden px-[10px]'>
+                <img src='/childVaccine.png' className='object-cover rounded-[8px]'/>
             </div>
         </div>
 
@@ -182,7 +182,7 @@ const VaccineType = () => {
                     <p className='text-[#202020] text-[18px] leading-[24px] md:text-[20px] md:leading-[32px]'>The Vaccine App moves us on to efficiency and convenience making all our lives easier. No more lost cards, parental guilt, missed or catch-up vaccines.</p>
                 </div>
 
-                <div className='flex gap-[16px] md:gap-[32px]'>
+                <div className='flex gap-[14px] md:gap-[20px]'>
                     <ul className='flex flex-col gap-[16px] md:gap-[24px]'>
 
                         <li className='flex items-center gap-[8px]'>
