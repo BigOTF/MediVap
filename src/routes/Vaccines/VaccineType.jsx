@@ -14,7 +14,7 @@ const VaccineType = () => {
       }, []);
 
   return (
-    <div className='w-full px-[30px] mt-[50px] md:px-[100px] md:mt-[100px] flex flex-col gap-[50px] md:gap-[80px]'>
+    <div className='w-full px-[20px] mt-[50px] md:px-[100px] md:mt-[100px] flex flex-col gap-[50px] md:gap-[80px]'>
 
         {/* Child Vaccine */}
         <div className='grid gap-[20px] md:grid-cols-2 md:items-center md:gap-[106px]'>
@@ -169,7 +169,7 @@ const VaccineType = () => {
 
             {/* This will display on mobile screen */}
             <div  data-aos="fade-up" data-aos-delay="500" className='opacity-0 transition-opacity duration-300 md:hidden px-[10px]'>
-                <img src='/childVaccine.png' className='object-cover rounded-[8px]'/>
+                <img src='/childVaccine.png' className='object-cover rounded-[8px] w-[365px] h-[365px]'/>
             </div>
         </div>
 
